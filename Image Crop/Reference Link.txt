@@ -1,0 +1,1 @@
+http://localhost:8888/crop-photo-using-php-and-jquery/
